@@ -1,11 +1,9 @@
-### Hi, I'm Juan Camilo Peña Marín 👋
+Hola, soy Juan Camilo Peña Marín 👋
+Soy un desarrollador backend viviendo en colombia, he trabajado con Python, Java, kotlin, html, php, sql y html. También me considero un apasionado de la tecnología, por eso quiero aprender un poco todos los días.
 
-I'm a backend developer living in colombia, i have worked with Python, Java, kotlin, html, php, sql y html. I also consider myself passionate about technology, that's why I want to learn a bit everyday.
-
-
-- 🔭 I’m currently working on Java with spring boot
-- 💬 Ask me about work!!! 
-- 📫 How to reach me: juaancamilo82@outlook.com
-- ⚡ Fun fact: It takes fewer codes to send a man to the moon than to operate a cell phone.
-- 🌏 I Think that I'm very optimistic, determined and analytical. I love the challenges ✨
+- 🔭 Actualmente estoy trabajando en Java con Spring Boot.
+- 💬 Consultame por trabajo!!!
+- 📫 Cómo comunicarse conmigo: juaancamilo82@outlook.com
+- ⚡ Dato curioso: se necesitan menos códigos para enviar a un hombre a la luna que para operar un teléfono celular.
+- 🌏 Creo que soy muy optimista, decidida y analítica. Me encantan los retos ✨
     
