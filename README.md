@@ -6,5 +6,6 @@ Soy un desarrollador de Colombia, he trabajado con Python, Java, kotlin, html, p
 - ⚡ Dato curioso: se necesitan menos códigos para enviar a un hombre a la luna que para operar un teléfono celular.
 - 🌏 Creo que soy muy optimista, decidida y analítica. Me encantan los retos ✨
 
-- - 📫 Contacto: juaancamilo82@outlook.com
+- 📫 Contacto: juaancamilo82@outlook.com
+- ------------------------------------------------------
     
