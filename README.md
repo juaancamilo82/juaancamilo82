@@ -4,9 +4,7 @@ Soy un desarrollador de Colombia, trabajó con Python, Java, kotlin, html, php, 
 
 🔭 Actualmente estoy trabajando en PHP con Laravel.
 
-💬Consultame por trabajo!!!
-
-⚡ Dato curioso: se necesitan menos códigos para enviar a un hombre a la luna que para operar un teléfono celular.
+💬 Buen trabajo en equipo, conocimiento en diferentes entornos de programación y frameworks. Con habilidades de análisis, diseño, desarrollo e implementación de soluciones.
 
 🌏 Creo que soy muy optimista, decidida y analítica. Me encantan los retos 
 
