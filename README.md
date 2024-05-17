@@ -2,7 +2,7 @@
 
 Hola, soy Juan Camilo Peña Marín 👋
 ----------------------------------------------------
-Soy un desarrollador de Colombia, trabajó con Python, Java, kotlin, html, php, sql, laravel, html, etc... También me considero un apasionado de la tecnología, por eso quiero aprender un poco todos los días.
+Soy un desarrollador de Colombia, trabajo con Python, Java, kotlin, html, php, sql, laravel, html, etc... También me considero un apasionado de la tecnología, por eso quiero aprender un poco todos los días.
 
 💬 Buen trabajo en equipo, conocimiento en diferentes entornos de programación y frameworks. Con habilidades de análisis, diseño, desarrollo e implementación de soluciones.
 
