@@ -10,7 +10,7 @@ Soy un desarrollador de Colombia, trabajo con Python, Java, kotlin, html, php, s
 
 💬 ¡Abierto a nuevas oportunidades y desafíos en el mundo del desarrollo de software!
 
-💻 Visita mi página web en: https://juaancamilo82.github.io/portafolio/
+🙋‍♂️ Todo sobre mi está en **[My Website](https://juaancamilo82.github.io/portafolio/)**
 
 ## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juancamilopeñamarin)
