@@ -28,4 +28,10 @@ Soy un desarrollador de Colombia, trabajo con Python, Java, kotlin, html, php, s
 <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="spring" width="40" height="40"/>
 <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="spring" width="40" height="40"/>
 
+# 📊 My GitHub Data:
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=juaancamilo82&show_icons=true" />
+</div>
+
     
