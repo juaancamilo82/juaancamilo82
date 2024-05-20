@@ -34,4 +34,5 @@ Soy un desarrollador de Colombia, trabajo con Python, Java, kotlin, html, php, s
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=juaancamilo82&show_icons=true" />
 </div>
 
+![Ashutosh's Github Profile Views](https://komarev.com/ghpvc/?username=juaancamilo82&color=blueviolet)  
     
